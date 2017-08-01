@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is FA45-C7B5
+
+ Directory of C:\Users\satish\Desktop\MyProject
+
+01/08/2017  05:39    <DIR>          .
+01/08/2017  05:39    <DIR>          ..
+01/08/2017  05:39                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  260,486,647,808 bytes free
+
+hello my name is satish
